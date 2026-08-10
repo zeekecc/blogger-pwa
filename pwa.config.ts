@@ -3,9 +3,9 @@ import { defineConfig } from '@/types/config';
 export default defineConfig({
   manifest: {
     id: '/',
-    name: 'My Blog',
-    short_name: 'My Blog',
-    description: 'My blog description goes here...',
+    name: '4d2all',
+    short_name: '4d2all',
+    description: '4D Prediction 4 All',
     dir: 'auto',
     lang: 'en-US',
     background_color: '#fff',
@@ -43,5 +43,5 @@ export default defineConfig({
   },
 
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://blogger-pwa.blogspot.com',
+  origin: 'https://4d2all.blogspot.com',
 });
