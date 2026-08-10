@@ -1,15 +1,15 @@
 {
-  "name": "My Blog",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "name": "4d2all",
+  "short_name": "4d2all",
+  "description": "4D Prediction 4 All",
   "dir": "auto",
   "lang": "en-US",
-  "background_color": "#fff",
-  "theme_color": "#fff",
+  "background_color": "#1e293b",
+  "theme_color": "#1e293b",
   "display": "standalone",
   "orientation": "natural",
-  "scope": "https://blogger-pwa.blogspot.com/",
-  "start_url": "https://blogger-pwa.blogspot.com/?utm_source=homescreen",
+  "scope": "https://4d2all.blogspot.com/",
+  "start_url": "https://4d2all.blogspot.com/?utm_source=homescreen",
   "id": "/",
   "prefer_related_applications": false,
   "icons": [
@@ -124,7 +124,7 @@
       "name": "Shortcut 1",
       "short_name": "Shortcut 1",
       "description": "Shortcut 1 description goes here...",
-      "url": "https://blogger-pwa.blogspot.com/search/label/shortcut-1?utm_source=homescreen"
+      "url": "https://4d2all.blogspot.com/search/label/shortcut-1?utm_source=homescreen"
     },
     {
       "icons": [
@@ -136,7 +136,7 @@
       "name": "Shortcut 2",
       "short_name": "Shortcut 2",
       "description": "Shortcut 2 description goes here...",
-      "url": "https://blogger-pwa.blogspot.com/search/label/shortcut-2?utm_source=homescreen"
+      "url": "https://4d2all.blogspot.com/search/label/shortcut-2?utm_source=homescreen"
     }
   ]
 }
